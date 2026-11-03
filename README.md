@@ -6,7 +6,7 @@ de Computec usando ArrayList y la clase Collections.
 
 ## Integrantes
 - Sherlon Lisber Serrano Garcia - Repositorio y clase Producto
-- [Nombre] - Clase Inventario (ArrayList)
+- Yanire Dayana Alcantara Salinas - Clase Inventario (ArrayList)
 - [Nombre] - Clase ReporteProductos (Collections)
 - [Nombre] - Main y menú
 - [Nombre] - Pruebas y documentación
