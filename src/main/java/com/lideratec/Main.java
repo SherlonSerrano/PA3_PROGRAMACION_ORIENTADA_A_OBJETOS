@@ -100,6 +100,10 @@ public class Main {
 
                 case 6:
                     System.out.println("\n[SUBMENÚ REPORTES]");
+
+                    // Conectamos los reportes con el inventario
+                    ReporteProductos rp = new ReporteProductos(inventario.getProductos());
+
                     int opReporte;
                     do {
                         System.out.println("\n--- MENÚ DE REPORTES ---");
@@ -111,9 +115,6 @@ public class Main {
                         System.out.print("Seleccione una opción de reporte: ");
                         opReporte = scanner.nextInt();
                         scanner.nextLine(); // Limpiar buffer
-
-                        // Instancia de reportes compartida
-                        ReporteProductos rp = new ReporteProductos();
 
                         switch (opReporte) {
                             case 1:
