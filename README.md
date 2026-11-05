@@ -11,7 +11,7 @@ El sistema utiliza colecciones de Java para almacenar y gestionar los productos 
 - Sherlon Lisber Serrano Garcia - Repositorio y clase Producto
 - Yanire Dayana Alcantara Salinas - Clase Inventario (ArrayList)
 - Ricardo Moisés Chauca Velazco - Clase ReporteProductos (Collections)
-- [Nombre] - Main y menú principal
+- Angelo Cuadros Castillo - Main y menú principal
 - Alvaro Carita Huaman - Pruebas y documentación
 
 ## Funcionalidades
