@@ -69,4 +69,4 @@ De esta manera, las colecciones permiten administrar el inventario y generar inf
 
 ## Video de exposición
 
-https://youtu.be/yhMTQqNERjI
+https://youtu.be/UiNnysSIcbA?si=fYVp3KQFel5Ois0R
